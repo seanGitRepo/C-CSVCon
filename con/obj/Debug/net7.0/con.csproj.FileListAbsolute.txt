@@ -1,0 +1,15 @@
+/Users/user/Documents/C#GitWork/CSVconverter/con/bin/Debug/net7.0/con
+/Users/user/Documents/C#GitWork/CSVconverter/con/bin/Debug/net7.0/con.deps.json
+/Users/user/Documents/C#GitWork/CSVconverter/con/bin/Debug/net7.0/con.runtimeconfig.json
+/Users/user/Documents/C#GitWork/CSVconverter/con/bin/Debug/net7.0/con.dll
+/Users/user/Documents/C#GitWork/CSVconverter/con/bin/Debug/net7.0/con.pdb
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.csproj.AssemblyReference.cache
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.AssemblyInfoInputs.cache
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.AssemblyInfo.cs
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.csproj.CoreCompileInputs.cache
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.dll
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/refint/con.dll
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.pdb
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/con.genruntimeconfig.cache
+/Users/user/Documents/C#GitWork/CSVconverter/con/obj/Debug/net7.0/ref/con.dll
